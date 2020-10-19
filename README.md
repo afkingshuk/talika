@@ -1,0 +1,2 @@
+# talika
+Inventory management 
